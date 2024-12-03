@@ -1,6 +1,8 @@
 # S.P.R.I.N.G.
 Spring Profile Reverse-Engineering Integrated Numerical Generator v1.00
 
+ut tensio, sic vic.
+
 S.P.R.I.N.G was designed to help you analyze and reverse-engineer springs by measuring the physical properties of a spring and reverse engineer these properties using Hooke's Law to calculate a springs potential energy (PE). 
 Compare the PE to the muzzle energy (ME) to see how efficient the rifle is at turning the spring's stored energy into kinetic energy.
 
