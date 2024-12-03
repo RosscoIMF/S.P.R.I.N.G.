@@ -20,10 +20,9 @@ How to Use the App: Step-by-Step Instructions
         Spring Calculator: Used to calculate properties of the spring (spring constant, potential energy, etc.).
         Mean Diameter Calculator: Used to calculate the spring's mean diameter from the inner and outer diameters.
         PE/KE Calculator: Used to compare the potential energy of the spring and the muzzle energy of the air rifle.
-        About: Displays information about the app and how it works.
-
-    Spring Calculator
-    In this tab, you’ll enter the details of the spring:
+        
+    Spring Calculator 
+        In this tab, you’ll enter the details of the spring:
         Wire Diameter: Enter the diameter of the wire used in the spring (in millimeters).
         Mean Diameter: The average diameter of the spring (calculated from the inner and outer diameters).
         Number of Coils: The number of coils in the spring.
@@ -32,20 +31,20 @@ How to Use the App: Step-by-Step Instructions
         Free Length: The length of the spring when not compressed.
         Closed and Ground Ends: Whether the ends of the spring are closed and ground (this affects the spring's behavior when compressed).
 
-    Once you've entered this information, click the Calculate button. The app will compute:
+        Once you've entered this information, click the Calculate button. The app will compute:
         Spring Constant (k): A measure of how stiff the spring is.
         Potential Energy (PE): The energy stored in the spring when compressed (in Joules and ft-lb).
         Spring Force: The force the spring applies at the given displacement.
         Solid Length: The length of the spring when fully compressed.
 
-    These values will be shown on the screen, giving you a full understanding of the spring's properties.
+        These values will be shown on the screen, giving you a full understanding of the spring's properties.
 
     Mean Diameter Calculator
-    If you don’t know the mean diameter of the spring but you have the Inner coil Diameter (ID) and Outer coil Diameter (OD), you can enter them here, and the app will calculate the mean diameter for you.
+        If you don’t know the mean diameter of the spring but you have the Inner coil Diameter (ID) and Outer coil Diameter (OD), you can enter them here, and the app will calculate the mean diameter for you.
 
     PE/KE Calculator
-    In this tab, you’ll compare the potential energy of the spring (calculated in the Spring Calculator) with the muzzle energy of the air rifle.
-    To do this, enter:
+        In this tab, you’ll compare the potential energy of the spring (calculated in the Spring Calculator) with the muzzle energy of the air rifle.
+        To do this, enter:
         Potential Energy (Joules): The energy stored in the spring.
         Mass of Pellet: The mass of the pellet used in the rifle (in grains or grams).
         Velocity of Pellet: The speed at which the pellet leaves the barrel of the rifle (in m/s or ft/s). Input up to 99 seperate velocity values by placing a comma between each value, ie 321,327,334,338...
@@ -57,5 +56,5 @@ How to Use the App: Step-by-Step Instructions
         Time of Flight: How long it takes the pellet to travel a set distance (like 25 meters).
         Velocity Deviation: How much the pellet's velocity varies from the average.
 
-    The app will display these results to help you evaluate the air rifle's performance.
+        The app will display these results to help you evaluate the air rifle's performance.
 
