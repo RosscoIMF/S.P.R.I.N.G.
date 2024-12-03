@@ -14,7 +14,7 @@ The app allows you to input details about the spring and its configuration, and 
 
 Purpose
 
-The main goal of this app is to reverse-engineer a spring by determining its potential energy at different displacements. The app calculates several important parameters that can help you understand how a spring performs in an air rifle.
+The main goal of this app is to reverse-engineer a spring by determining its potential energy at different displacements (compression). The app calculates several important parameters that can help you understand how a spring performs in an air rifle.
 How to Use the App: Step-by-Step Instructions
 
 
