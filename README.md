@@ -15,15 +15,18 @@ The app allows you to input details about the spring and its configuration, and 
 
 Purpose
 
-The main goal of this app is to reverse-engineer a spring by determining its potential energy at different displacements (compression). The app calculates several important parameters that can help you understand how a spring performs in an air rifle.
+The primary goal of this app is to reverse-engineer a spring by calculating its potential energy at various levels of displacement (compression). It also computes key parameters to help you better understand the spring’s performance in an air rifle.
+
 How to Use the App: Step-by-Step Instructions
 
-
-        Spring Calculator: Used to calculate properties of the spring (spring constant, potential energy, etc.).
+Overview:
+        
+        Spring Constant Calculator: Used to calculate properties of the spring (spring constant, potential energy, etc.).
         Mean Diameter Calculator: Used to calculate the spring's mean diameter from the inner and outer diameters.
         PE/KE Calculator: Used to compare the potential energy of the spring and the muzzle energy of the air rifle.
         
-    Spring Calculator 
+Spring Calculator:
+
         In this tab, you’ll enter the details of the spring:
         Wire Diameter: Enter the diameter of the wire used in the spring (in millimeters).
         Mean Diameter: The average diameter of the spring (calculated from the inner and outer diameters).
@@ -41,17 +44,20 @@ How to Use the App: Step-by-Step Instructions
 
         These values will be shown on the screen, giving you a full understanding of the spring's properties.
 
-    Mean Diameter Calculator
+Mean Diameter Calculator
+        
         If you don’t know the mean diameter of the spring but you have the Inner coil Diameter (ID) and Outer coil Diameter (OD), you can enter them here, and the app will calculate the mean diameter for you.
 
-    PE/KE Calculator
+PE/KE Calculator
+
         In this tab, you’ll compare the potential energy of the spring (calculated in the Spring Calculator) with the muzzle energy of the air rifle.
         To do this, enter:
         Potential Energy (Joules): The energy stored in the spring.
         Mass of Pellet: The mass of the pellet used in the rifle (in grains or grams).
         Velocity of Pellet: The speed at which the pellet leaves the barrel of the rifle (in m/s or ft/s). Input up to 99 seperate velocity values by placing a comma between each value, ie 321,327,334,338...
 
-    The app will calculate:
+The app will calculate:
+
         Muzzle Energy: The energy of the pellet when fired (in Joules and ft-lb).
         Efficiency: (average and peak) A measure of how well the rifle converts the spring's stored energy into the pellet's kinetic energy.
         Momentum: The momentum of the pellet after being fired.
