@@ -3,7 +3,7 @@ Spring Profile Reverse-Engineering Integrated Numerical Generator v1.00
 
 Ut tensio, sic vis.
 
-Standalone executable. No need for installation. Run SPRING.exe to start.
+Standalone executable. No need for installation. Unzip and run SPRING.exe to start.
 
 S.P.R.I.N.G was designed to help you analyze and reverse-engineer springs by measuring their physical properties and applying Hooke’s Law to calculate a spring’s potential energy (PE). You can then compare the PE to the muzzle energy (ME) to evaluate how efficiently the rifle converts the spring’s stored energy into kinetic energy.
 
