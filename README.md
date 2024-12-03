@@ -1,7 +1,7 @@
 # S.P.R.I.N.G.
 Spring Profile Reverse-Engineering Integrated Numerical Generator v1.00
 
-S.P.R.I.N.G was designed to help you analyze and reverse-engineer springs, calculate their potential energy, and compare this energy with the muzzle energy of an air rifle. By doing this, you can measure the efficiency of the air rifle.
+S.P.R.I.N.G was designed to help you analyze and reverse-engineer springs by measuring the physical properties of a spring and reverse engineer these properties using Hooke's Law to calculate a springs potential energy, and compare this energy with the muzzle energy of an air rifle. By doing this, you can measure the efficiency of the air rifle.
 
 The app allows you to input details about the spring and its configuration, and it will calculate important values like:
 
