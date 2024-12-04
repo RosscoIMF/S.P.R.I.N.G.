@@ -16,10 +16,6 @@ The app allows you to input details about the spring and its configuration, and 
     The spring constant (a measure of the spring's stiffness).
     The spring's solid length (the shortest length the spring can compress to).
 
-Purpose
-
-The primary goal of this app is to reverse-engineer a spring by calculating its potential energy at various levels of displacement. It also computes key parameters to help you better understand the spring’s performance in an air rifle.
-
 How to Use the App:
 
 Overview:
