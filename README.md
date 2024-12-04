@@ -31,7 +31,7 @@ Spring Calculator:
         Mean Diameter: The average diameter of the spring (calculated from the inner and outer coil diameters).
         Number of Coils: The number of coils in the spring.
         Shear Modulus: The stiffness of the material the spring is made from (this is set to 80 GPa by default, but you can adjust it if needed).
-        If you want to enter a custom shear modulus, then you must use scientific notation. Example, 80GPa = 80e9 in scientific notation, if you wanted to calculate a material that has a shear modulus of 82.5         GPa you would enter 82.5e9 into the shear modulus input box.
+        If you want to enter a custom shear modulus, then you must use scientific notation. Example, 80GPa = 80e9 in scientific notation, if you wanted to calculate a material that has a shear modulus of 82.5 GPa you would enter 82.5e9 into the shear modulus input box.
         Displacement: How much the spring compressed from the free length to when the rifle is cocked.
         Free Length: The length of the spring when not compressed.
         Closed and Ground Ends: Whether the ends of the spring are closed and ground (this affects the spring's behavior when compressed).
