@@ -5,7 +5,7 @@ Ut tensio, sic vis.
 
 Standalone executable. No need for installation. Unzip and run SPRING.exe to start.
 
-S.P.R.I.N.G is a sophisticated maths based program designed to analyze and reverse-engineer springs by measuring their physical properties and applying Hooke’s Law to calculate a spring’s potential energy (PE). You can then compare the PE to the muzzle energy (ME) to evaluate how efficiently the rifle converts the spring’s stored energy into kinetic energy (KE)
+S.P.R.I.N.G is a program designed to analyze and reverse-engineer springs by measuring their physical properties and applying Hooke’s Law to calculate a spring’s potential energy (PE). You can then compare the PE to the muzzle energy (ME) to evaluate how efficiently the rifle converts the spring’s stored energy into kinetic energy (KE)
 
 Its primary purpose is to provide a standardized benchmark for tuning air rifles, ensuring that any modifications made to the rifle lead to measurable improvements in performance.
 
