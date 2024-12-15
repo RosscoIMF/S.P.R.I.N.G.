@@ -37,8 +37,11 @@ Free Length: The length of the spring when not compressed.
 Closed and Ground Ends: Whether the ends of the spring are closed and ground (this affects the spring's behavior when compressed).
 
 Once you've entered this information, click the Calculate button. The app will compute:
+
 Potential Energy (PE): The energy stored in the spring when compressed (in Joules and ft-lb).
+
 Spring Force: The force the spring applies at the given displacement.
+
 Solid Length: The length of the spring when fully compressed.
 
 These values will be shown on the screen, giving you a full understanding of the spring's properties.
@@ -50,18 +53,25 @@ If you don’t know the mean diameter of the spring but you have the Inner coil 
 PE/KE Calculator
 
 In this tab, you’ll compare the potential energy of the spring (calculated in the Spring Calculator) with the muzzle energy of the air rifle.
-To do this, enter:
+
 The Potential Energy in Joules: This is the energy stored in the spring.
+
 Mass of Pellet: The mass of the pellet used in the rifle (in grains or grams).
+
 Velocity of Pellet: The speed at which the pellet leaves the barrel of the rifle (in m/s or ft/s). Input up to 99 seperate velocity values by placing a comma between each value, ie 321,327,334,338...
 
 The app will calculate:
 
 Muzzle Energy: The kinetic energy of the pellet when fired in Joules and ft-lb.
+
 Efficiency (average and peak): A measure of how well the rifle converts the spring's stored energy into the pellet's kinetic energy in %.
+
 Momentum: The momentum of the pellet after being fired.
+
 PE/ME Ratio: The ratio of PE compared to ME.
+
 Time of Flight: How long it takes the pellet to travel a set distance (like 25 meters).
+
 Velocity Deviation: How much the pellet's velocity varies from the average in meters/second.
 
 -Rossco
