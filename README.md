@@ -24,7 +24,9 @@ How to Use the App:
 Overview:
         
 Spring Constant Calculator: Used to calculate properties of the spring (spring constant, potential energy, etc.).
+
 Mean Diameter Calculator: Used to calculate the spring's mean diameter from the inner and outer coil diameters.
+
 PE/KE Calculator: Used to compare the potential energy of the spring and the muzzle energy of the air rifle.
         
 Spring Calculator:
